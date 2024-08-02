@@ -174,13 +174,11 @@ namespace Controllers
             if (order == null)
             {
                 return NotFound("Заказ не найден");
-            }
 
             var product = await _context.Products.FindAsync(productId);
             if (product == null)
             {
                 return NotFound("Товар не найден");
-            }
 
             var ExistingOrderItem = order.OrderItems.FirstOrDefault(item => item.ProductId == productId);
             if (ExistingOrderItem != null)
