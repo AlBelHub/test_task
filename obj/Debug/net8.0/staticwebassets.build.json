@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pApuZpUEhi3Hv+hVJCY4zap8jmcvirTNUY0LYrFfbY0=",
+  "Source": "test_task",
+  "BasePath": "_content/test_task",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

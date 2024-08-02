@@ -1,0 +1,311 @@
+/home/aleksey/code/test_task/bin/Debug/net8.0/appsettings.Development.json
+/home/aleksey/code/test_task/bin/Debug/net8.0/appsettings.json
+/home/aleksey/code/test_task/bin/Debug/net8.0/test_task
+/home/aleksey/code/test_task/bin/Debug/net8.0/test_task.deps.json
+/home/aleksey/code/test_task/bin/Debug/net8.0/test_task.runtimeconfig.json
+/home/aleksey/code/test_task/bin/Debug/net8.0/test_task.dll
+/home/aleksey/code/test_task/bin/Debug/net8.0/test_task.pdb
+/home/aleksey/code/test_task/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/aleksey/code/test_task/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/aleksey/code/test_task/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/aleksey/code/test_task/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/aleksey/code/test_task/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.csproj.AssemblyReference.cache
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.AssemblyInfoInputs.cache
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.AssemblyInfo.cs
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.csproj.CoreCompileInputs.cache
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.MvcApplicationPartsAssemblyInfo.cs
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.MvcApplicationPartsAssemblyInfo.cache
+/home/aleksey/code/test_task/obj/Debug/net8.0/staticwebassets.build.json
+/home/aleksey/code/test_task/obj/Debug/net8.0/staticwebassets.development.json
+/home/aleksey/code/test_task/obj/Debug/net8.0/staticwebassets/msbuild.test_task.Microsoft.AspNetCore.StaticWebAssets.props
+/home/aleksey/code/test_task/obj/Debug/net8.0/staticwebassets/msbuild.build.test_task.props
+/home/aleksey/code/test_task/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.test_task.props
+/home/aleksey/code/test_task/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.test_task.props
+/home/aleksey/code/test_task/obj/Debug/net8.0/staticwebassets.pack.json
+/home/aleksey/code/test_task/obj/Debug/net8.0/scopedcss/bundle/test_task.styles.css
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.csproj.CopyComplete
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.dll
+/home/aleksey/code/test_task/obj/Debug/net8.0/refint/test_task.dll
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.pdb
+/home/aleksey/code/test_task/obj/Debug/net8.0/test_task.genruntimeconfig.cache
+/home/aleksey/code/test_task/obj/Debug/net8.0/ref/test_task.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/appsettings.json
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/test_task.exe
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/test_task.deps.json
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/test_task.runtimeconfig.json
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/test_task.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/test_task.pdb
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.csproj.AssemblyReference.cache
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.AssemblyInfoInputs.cache
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.AssemblyInfo.cs
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.csproj.CoreCompileInputs.cache
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/staticwebassets/msbuild.test_task.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/staticwebassets/msbuild.build.test_task.props
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.test_task.props
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.test_task.props
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/scopedcss/bundle/test_task.styles.css
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.csproj.CopyComplete
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/refint/test_task.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.pdb
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/test_task.genruntimeconfig.cache
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/obj/Debug/net8.0/ref/test_task.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Humanizer.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/BARS6/OneDrive/Рабочий стол/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/appsettings.Development.json
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/appsettings.json
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/test_task
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/test_task.deps.json
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/test_task.runtimeconfig.json
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/test_task.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/test_task.pdb
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Azure.Core.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Azure.Identity.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Humanizer.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.CodeDom.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Memory.Data.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.csproj.AssemblyReference.cache
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.GeneratedMSBuildEditorConfig.editorconfig
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.AssemblyInfoInputs.cache
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.AssemblyInfo.cs
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.csproj.CoreCompileInputs.cache
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.MvcApplicationPartsAssemblyInfo.cs
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.MvcApplicationPartsAssemblyInfo.cache
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/staticwebassets.build.json
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/staticwebassets.development.json
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/staticwebassets/msbuild.test_task.Microsoft.AspNetCore.StaticWebAssets.props
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/staticwebassets/msbuild.build.test_task.props
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.test_task.props
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.test_task.props
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/staticwebassets.pack.json
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/scopedcss/bundle/test_task.styles.css
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.csproj.Up2Date
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/refint/test_task.dll
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.pdb
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/test_task.genruntimeconfig.cache
+/home/aleksey/Загрузки/test_task (3)/test_task/obj/Debug/net8.0/ref/test_task.dll
